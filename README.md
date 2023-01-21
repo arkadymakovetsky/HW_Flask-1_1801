@@ -30,7 +30,7 @@ python app_orm.py
 ```
 /quotes/filter?rating=4&author_id=1
 ```
-API-запросы для thunder (postmen) можно импортировать из файла:
+API-запросы для thunder (postman) можно импортировать из файла:
 ```
 out_json/thunder-collection_QuotesAPI(Flask1).json
 ```
